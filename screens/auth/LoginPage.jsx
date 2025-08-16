@@ -13,7 +13,6 @@ export default function LoginPage() {
     setLoading(true);
     setError("");
     setSuccess("");
-    // Chamada para API fake
     try {
       const response = await fetch("https://jsonplaceholder.typicode.com/posts", {
         method: "POST",
