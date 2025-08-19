@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-lab-mobiletop",
-    "slug": "app-lab-mobiletop",
+    "name": "Athletica",
+    "slug": "athletica",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
